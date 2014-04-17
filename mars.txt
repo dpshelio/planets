@@ -1,2 +1,3 @@
-Mars is red
+Mars is blue
+This is where men suppose to live!
 
